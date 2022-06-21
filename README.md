@@ -1,5 +1,4 @@
 ## Bookshelf API Project for Dicoding Submission
-<hr>
 
 * Bookshelf API using Hapi Framework
 * GET, POST, PUT, DELETE books data 
